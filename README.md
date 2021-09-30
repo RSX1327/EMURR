@@ -35,5 +35,5 @@ Models for EMURR display CHDR branding and enable the router to be hung on a pul
 All of these files should be printed PETG to allow for some flexibility. 
 - .4 Initial Layer Height
 - .15 Layer Height
-- 240/90deg extruder/bed temps
+- 240°/90°F extruder/bed temps
 - 15% infill (gyroid or rectilinear) and no need for support structures
