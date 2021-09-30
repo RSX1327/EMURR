@@ -1,7 +1,7 @@
 # EMURR
 EMURR, or **Exhibit Marker Uniform Resource Router** is a mobile closed loop platform for deploying digital media content to devices using WiFi in geographical areas that have lacking infrastructure and reception. The working prototype uses the following components:
 - [TP-Link Archer C1200 Router](https://www.tp-link.com/us/home-networking/wifi-router/archer-c1200/) (12v/1amp)
-- Raspberry Pi Zero W (5v/1.5amp)
+- [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) (5v/1.5amp)
 - 12V/11000mAh DC Output Battery w/2.1mm x 5.5mm output
 - MicroUSB Cable
 
