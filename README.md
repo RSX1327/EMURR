@@ -25,7 +25,8 @@ sudo apt-get update
 sudo apt-get install apache2 -y
 sudo reboot
 ```
-3. 
+3. After these bash commands run the RaspberryPi will reboot and a web status page will be available at the IP address the router assigned your Pi.
+4. You can now configure your router to assign a static IP address to the MAC address of your RaspberryPi. 
 
 ## CAD Models
 Models for EMURR display CHDR branding and enable the router to be hung on a pull along cart or from a backpack. The critical dimension of the router mount is stored in the DXF file. 3MF files are better quality but the STLs are included for previewing purposes. 
