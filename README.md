@@ -5,7 +5,7 @@ EMURR, or **Exhibit Marker Uniform Resource Router** is a mobile closed loop pla
 - 12V/11000mAh DC Output Battery w/2.1mm x 5.5mm output
 - MicroUSB Cable
 
-###Installation Instructions
+### Installation Instructions
 The Raspbery Pi Zero W is running [Raspberry Pi OS Lite](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-05-28/2021-05-07-raspios-buster-armhf-lite.zip) Kernel Version: 5.10. Once you have the the disc image mounted to an SD card you will need to run the following steps:
 1. Create a text file inside boot and named it wpa_supplicant.text. Edit this file, commit the following while adding your WiFi credentials:
 ```
